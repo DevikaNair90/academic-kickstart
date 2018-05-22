@@ -12,7 +12,7 @@ title = "Academic"
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; 2018"
 
-theme = "academic"
+theme = "lodi"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -55,19 +55,20 @@ enableGitInfo = false
 
   # Your details.
   name = "Devika Nair"
-  role = "Business Intelligence Expert, Aspiring Data Scientist"
+  role = "Business Intelligence Expert & Aspiring Data Scientist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Virginia Tech University", url = "" } ]
+  organizations = [ { name = "The Biocomplexity Institute, Virginia Tech University",
+  url = "https://www.linkedin.com/in/devika-t-nair/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "1000000 Market Street"
+  email = "devika.t.nair@gmail.com"
+  address = "Reston, VA"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  phone = ""
+  skype = "devikanair19"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
