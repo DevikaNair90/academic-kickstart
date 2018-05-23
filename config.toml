@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Devika Nair"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -55,7 +55,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Devika Nair"
-  role = "Business Intelligence Expert & Aspiring Data Scientist"
+  role = "BI Expert & Aspiring Data Scientist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
