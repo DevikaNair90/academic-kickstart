@@ -1,9 +1,9 @@
 +++
-title = "Anoles"
-date = "2016-06-08"
+title = "Genome Sequencing"
+date = "2012-09-20"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["William J. Farrell, Devika T. Nair, Brian M. Miller, & Alan M. Zigler"]
+authors = ["Devika Nair"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["William J. Farrell, Devika T. Nair, Brian M. Miller, & Alan M. Zigle
 publication_types = [7]
 
 # Publication name and optional abbreviated version.
-publication = "The Emergence and Behavioral Stability of Social Status in Green Anole Lizard (Anolis carolinensis) Dyads"
-publication_short = "*Anoles.jl*"
+publication = "Whole-Genome Sequencing and Infectious Disease: A Novel Application of Sequencing Technology"
+publication_short = "*WGS.ps*"
 
 # Abstract and optional shortened version.
-abstract = "The Emergence and Behavioral Stability of Social Status in Green Anole Lizard (Anolis carolinensis) Dyads"
+abstract = "Whole-Genome Sequencing and Infectious Disease: A Novel Application of Sequencing Technology"
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -36,7 +36,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "http://animalbehaviorandcognition.org/uploads/journals/12/06.Farrell_et_al_final.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -44,7 +44,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.liebertpub.com/doi/abs/10.1089/gtmb.2013.1549?journalCode=gtmb"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
