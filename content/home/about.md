@@ -28,8 +28,7 @@ weight = 5
   year = 2018
 
 [[education.courses]]
-  course = "BA in Neuroscience"
-  course = "Minor in French"
+  course = "BA in Neuroscience, Minor in French"
   institution = "Franklin & Marshall College"
   year = 2012
 
