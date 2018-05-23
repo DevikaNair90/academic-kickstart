@@ -35,6 +35,8 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Devika Nair is a recent graduate of the MS Data Analytics program within American University's
+Kogod School of Business. After completing her BS in Neuroscience at Franklin & Marshall 
+College, she worked at Genetic Alliance, a nonprofit dedicated to advocacy on behalf of 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
