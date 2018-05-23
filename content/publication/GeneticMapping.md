@@ -3,13 +3,7 @@ title = "Genetic Mapping"
 date = "2012-01-17"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Erik G. Puffenberger , Robert N. Jinks, Carrie Sougnez, Kristian
-Cibulskis, Rebecca A. Willert, Nathan P. Achilly, Ryan P. Cassidy, Christopher
-J. Fiorentini, Kory F. Heiken, Johnny J. Lawrence, Molly H. Mahoney, Christopher
-J. Miller, Devika T. Nair, Kristin A. Politi, Kimberly N. Worcester, Roni A.
-Setton, Rosa DiPiazza, Eric A. Sherman, James T. Eastman, Christopher Francklyn,
-Susan Robey-Bond, Nicholas L. Rider, Stacey Gabriel, D. Holmes Morton, Kevin A.
-Strauss"]
+authors = ["Erik G. Puffenberger , Robert N. Jinks, Carrie Sougnez, Kristian Cibulskis, Rebecca A. Willert, Nathan P. Achilly, Ryan P. Cassidy, Christopher J. Fiorentini, Kory F. Heiken, Johnny J. Lawrence, Molly H. Mahoney, Christopher J. Miller, Devika T. Nair, Kristin A. Politi, Kimberly N. Worcester, Roni A. Setton, Rosa DiPiazza, Eric A. Sherman, James T. Eastman, Christopher Francklyn, Susan Robey-Bond, Nicholas L. Rider, Stacey Gabriel, D. Holmes Morton, Kevin A. Strauss"]
 
 # Publication type.
 # Legend:
