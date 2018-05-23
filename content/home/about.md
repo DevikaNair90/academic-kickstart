@@ -10,26 +10,28 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Data Analytics",
+    "Government",
+    "Neuroscience",
+    "French Language"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "Data Science for Public Good"
+  institution = "Virginia Tech University"
+  year = 2018
+
+[[education.courses]]
+  course = "MS in Data Analytics"
+  institution = "American University"
+  year = 2018
+
+[[education.courses]]
+  course = "BA in Neuroscience"
+  course = "Minor in French"
+  institution = "Franklin & Marshall College"
   year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
