@@ -38,7 +38,7 @@ projects = []
 # Links (optional).
 url_pdf = ""
 url_preprint = ""
-url_code = "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0028936"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
@@ -48,7 +48,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = []
+url_custom = [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0028936]
 
 # Does the content use math formatting?
 math = true

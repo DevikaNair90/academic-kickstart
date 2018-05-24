@@ -21,7 +21,6 @@ weight = 60
 
 
 +++
-# Fun Stuff
 
 If you're an HGTV nut like me, you love home renovation. Here are some before and after pictures of
 our home renovation.

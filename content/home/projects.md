@@ -33,12 +33,19 @@ filter_default = 0
 #   tag = "*"
 #  
 # [[filter]]
-#   name = "Deep Learning"
-#   tag = ".deep-learning"
+#   name = "DC United - Impact of Game Conditions on Game Outcomes"
+#   tag = ".sports-analytics"
 #
 # [[filter]]
-#   name = "Other"
+#   name = "Arlington Partnership for Children, Youth & Families"
+#   tag = ".local-government"
+#
+# [[filter]]
+#   name = "Podcast Fans"
+#   tag = ".podcast"
+#
+# [[filter]]
+#   name = "DC United - Modeling Offensive, Defensive, Midfielder & Goalkeeper Play"
 #   tag = ".demo"
 
 +++
-
