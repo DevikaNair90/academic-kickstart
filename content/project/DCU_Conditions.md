@@ -9,7 +9,7 @@ title = "DC United: How Game Conditions Impact Game Outcomes"
 summary = "Investigating the impact of weather, travel, and stadium conditions on game play."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "dcu.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
