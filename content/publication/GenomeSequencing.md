@@ -1,6 +1,6 @@
 +++
 title = "Genome Sequencing"
-date = "2012-09-20"
+date = "2013-09-20"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Devika Nair"]
