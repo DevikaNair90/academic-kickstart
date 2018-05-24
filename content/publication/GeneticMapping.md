@@ -44,11 +44,11 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0028936"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0028936]
+url_custom = []
 
 # Does the content use math formatting?
 math = true
