@@ -19,6 +19,7 @@ weight = 60
 #image = "countersbest.JPG"
 #caption = ""
 
+![Example image](/static/countersbest.jpg)
 
 +++
 
@@ -28,6 +29,7 @@ our home renovation.
 Before:
 
 image = "countersbest.JPG"
+![Example image](/static/countersbest.jpg)
 caption = "Best counters ever"
 
 image = "loweredcounters2.JPG"

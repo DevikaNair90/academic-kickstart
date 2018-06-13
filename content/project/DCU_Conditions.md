@@ -13,7 +13,7 @@ image_preview = "dcu.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["deep-learning"]
+tags = ["predictive-analytics", "wide-data", "sports-analytics", "soccer-data"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
