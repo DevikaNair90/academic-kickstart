@@ -1,16 +1,16 @@
 +++
 # Dashboards widget.
-widget = "dashboards"
-active = true
+widget = "talks"
+active = false
 date = 2016-04-20T00:00:00
 
-title = "Dashboards"
+title = "Recent & Upcoming Talks"
 subtitle = ""
 
 # Order that this section will appear in.
 weight = 30
 
-# Number of dashboards to list.
+# Number of talks to list.
 count = 10
 
 # List format.
@@ -19,5 +19,3 @@ count = 10
 list_format = 0
 
 +++
-
-Dashboards
