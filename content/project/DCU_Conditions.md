@@ -16,7 +16,7 @@ image_preview = "dcu.png"
 tags = ["predictive-analytics", "wide-data", "sports-analytics", "soccer-data"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://devika.shinyapps.io/dcunitedpracticum/"
 
 # Does the project detail page use math formatting?
 math = false

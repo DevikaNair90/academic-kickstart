@@ -277,8 +277,8 @@ enableGitInfo = false
   weight = 4
 
 # [[menu.main]]
-#  name = "Teaching"
-#  url = "#teaching"
+#  name = "Dashboards"
+#  url = "#dashboards"
 #  weight = 5
 
 [[menu.main]]
