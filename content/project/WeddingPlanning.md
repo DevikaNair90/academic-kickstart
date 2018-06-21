@@ -3,17 +3,17 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "DC United: How Game Conditions Impact Game Outcomes"
+title = "Wedding Planning"
 
 # Project summary to display on homepage.
-summary = "Investigating the impact of weather, travel, and stadium conditions on game play."
+summary = "Calculating the cost of a wedding"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "dcu.png"
+image_preview = "weddingplanning.jpeg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["predictive-analytics", "wide-data", "sports-analytics", "soccer-data"]
+tags = ["wedding-planning", "descriptive-analytics", "google-sheets", "guest-list"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -28,7 +28,7 @@ caption = "My caption :smile:"
 
 +++
 
-Collaborative project with Rachel Chang, Julia Smadja, Hector Acevedo.
 
-Check out the prediction dashboard!
-[Goal Differential Predictor Tool] (https://devika.shinyapps.io/dcunitedpracticum/)
+
+Check out the cost dashboard!
+[Wedding Calculator Tool] (https://devika.shinyapps.io/ShinyWeddingDN/)
