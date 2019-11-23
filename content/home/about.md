@@ -36,7 +36,7 @@ weight = 5
 
 # Biography
 
-Devika Nair is a recent graduate of the MS Data Analytics program within American
+Devika Mahoney-Nair is a recent graduate of the MS Data Analytics program within American
 University's Kogod School of Business. After completing her BS in Neuroscience at
 Franklin & Marshall College, she worked at Genetic Alliance, a nonprofit dedicated
 to advocacy on behalf of communities affected by genetic conditions.
